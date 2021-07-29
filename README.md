@@ -1,4 +1,4 @@
-# Decentralized Airbnb
+# Decentralized library
 Setup
 
 1. Install dependencies
@@ -11,12 +11,8 @@ npm install
 - Follow [setup](./setup.md) to setup all requirements.
 - Follow [dapps](./dapps.md) to complete the DApp code.
 
-3. Run ethereum blockchain locally
-```
-npm run test:ethereum
-```
 
-4. Run DApp UI
+3. Run DApp UI
 ```
 cd dapp-ui
 npm install
@@ -28,4 +24,4 @@ npm run start
 
 ## Full Solution
 
-[Complete Decentralized Airbnb](https://github.com/maticnetwork/ethindia-workshop/tree/complete-dapp) | or `git checkout complete-dapp`
+[Complete Decentralized library](https://github.com/maticnetwork/ethindia-workshop/tree/complete-dapp) | or `git checkout complete-dapp`
